@@ -15,6 +15,6 @@ public class Monedas {
     public final double PRECIO_EURO = 895.38;
     public final double PRECIO_LIBRAS_ESTERLINAS = 1061.06;
     public final double PRECIO_YEN_JAPONES = 6.62;
-    public final double PRECIO_WON_SURCOREANO = 49991.29;
+    public final double PRECIO_WON_SURCOREANO = 1486.21;
    
 }
