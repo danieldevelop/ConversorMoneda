@@ -70,6 +70,7 @@ public class ConversorMoneda {
                                 }   
 
 
+                                
 
                                 if (monedaConvertir.equalsIgnoreCase("de pesos a euro")) {
                                     euro = convertir.PesosChilenosAEuro(dineroConvertido);
@@ -83,6 +84,7 @@ public class ConversorMoneda {
 
 
 
+                                
                                 if (monedaConvertir.equalsIgnoreCase("de pesos a libras")) {
                                     libra_esterlina = convertir.PesosChilenosALibras(dineroConvertido);
                                     funcion.MessageBox("Tienes $" + String.format("%.2f", libra_esterlina) + " Libras Esterlina", 1);
@@ -95,6 +97,7 @@ public class ConversorMoneda {
 
 
 
+                                
                                 if (monedaConvertir.equalsIgnoreCase("de pesos a yen")) {
                                     yen_japones = convertir.PesosChilenosAYen(dineroConvertido);
                                     funcion.MessageBox("Tienes $" + String.format("%.2f", yen_japones) + " Yen Japónes", 1);
