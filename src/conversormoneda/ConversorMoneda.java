@@ -27,8 +27,7 @@ public class ConversorMoneda {
 //        Arrays de Objetos
         String[] opcionesDeMenu = {
             "Seleccione...",
-            "Conversor de Moneda",
-            "Conversor de Temperatura"
+            "Conversor de Moneda"
         };
 
         String[] tipoDeMonedas = {
@@ -123,9 +122,6 @@ public class ConversorMoneda {
                             } else {
                                 funcion.MessageBox("Debe ingresar un valor, para continuar", 2);
                             }
-                            break;
-
-                        case "Conversor de Temperatura":
                             break;
 
                         default:
