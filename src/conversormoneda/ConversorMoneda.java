@@ -135,7 +135,7 @@ public class ConversorMoneda {
             }
             
             
-            inicio = JOptionPane.showConfirmDialog(null, "¿Desea Continuar?", "algo", JOptionPane.YES_NO_CANCEL_OPTION);
+            inicio = JOptionPane.showConfirmDialog(null, "¿Desea Continuar?", "Conversor de Monedas/Temperaturas", JOptionPane.YES_NO_CANCEL_OPTION);
             if (inicio == 1 || inicio == 2) {
                 funcion.MessageBox("Programa terminado", 1);
                 break;
