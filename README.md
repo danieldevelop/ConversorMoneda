@@ -31,6 +31,11 @@ Recordando  que también debe ser posible convertir inversamente, es decir:
 - [JDK v8](https://www.oracle.com/cl/java/technologies/javase/javase8-archive-downloads.html) - Java SE Development Kit 
 - [NetBeans v13](https://netbeans.apache.org/download/nb13/nb13.html) - IDE (Entorno de desarrollo Intregado) Software Editor
 
+## Instalación
+
+Conversion de Mondenas requiere de [Java v8](https://www.java.com/es/download/ie_manual.jsp) y [JDK v8](https://www.oracle.com/cl/java/technologies/javase/javase8-archive-downloads.html)
+para poder ejecutar el programa. Este se encuentra ubicada dentro del directorio dist y se llama ConversorMoneda
+
 ## License
 
 **Free Software**
