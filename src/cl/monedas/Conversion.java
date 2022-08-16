@@ -9,7 +9,7 @@ public class Conversion {
     
    Monedas moneda = new Monedas();
    
-//   DE PESOS A DOLAR Y BICEVERSA
+//   DE PESOS A DOLAR Y VICEBERSA
    public double PesosChilenosADolar(double pesos) {
        return (pesos / moneda.PRECIO_DOLAR);
    }
@@ -20,18 +20,17 @@ public class Conversion {
    }
    
    
-//   DE PESOS A EURO Y BICEVERSA
+//   DE PESOS A EURO Y VICEBERSA
    public double PesosChilenosAEuro(double pesos) {
        return (pesos / moneda.PRECIO_EURO);
    }
    
    public double EuroAPesosChilenos(double euro) {
-       
        return (euro * moneda.PRECIO_EURO);
    }
    
    
-//   DE PESOS A LIBRAS Y BECEVERSA
+//   DE PESOS A LIBRAS Y VICEBERSA
    public double PesosChilenosALibras(double pesos) {
        return (pesos / moneda.PRECIO_LIBRAS_ESTERLINAS);
    }
@@ -42,7 +41,7 @@ public class Conversion {
    }
    
    
-   //   DE PESOS A YEN Y BECEVERSA
+   //   DE PESOS A YEN Y VICEBERSA
    public double PesosChilenosAYen(double pesos) {
        return (pesos / moneda.PRECIO_YEN_JAPONES);
    }
@@ -53,7 +52,7 @@ public class Conversion {
    }
    
    
-    //   DE PESOS A WON Y BECEVERSA
+    //   DE PESOS A WON Y VICEBERSA
    public double PesosChilenosAWon(double pesos) {
        return (pesos / moneda.PRECIO_WON_SURCOREANO);
    }
