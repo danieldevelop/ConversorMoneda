@@ -16,11 +16,11 @@ Para poder ejecutar el archivo .jar de la aplicación es necesario tener instala
 puedes descargarla desde el siguiente enlace
 
 - [Descargar Java](https://www.java.com/es/download/ie_manual.jsp) - Maquína Virtual de Java.
+- [Descargar JDK Development Kit 17](https://www.oracle.com/cl/java/technologies/downloads/#jdk17-windows) - Herramientas de Desarrollo de Java.
 
 ## Instalación
 
 1. Descargar el archivo .jar desde el siguiente [ConversorMoneda.jar](https://github.com/danieldevelop/ConversorMoneda/releases/download/ConversorMoneda-v2.0.0/ConversorMoneda.jar)
-2. Descargar el archivo .exe desde el siguiente [ConversorMoneda.exe](https://github.com/danieldevelop/ConversorMoneda/releases/download/ConversorMoneda-v2.0.0/ConversorMonedas.exe)
 3. Ejecutar el archivo descargado.
 4. Listo! Ya puedes empezar a convertir monedas y otras cosas más.
 
